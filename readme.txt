@@ -5,3 +5,4 @@ Git tracks changes.
 哈哈，我是新来的暂缓区的内容
 啦啦
 My stupid boss still prefers SVN.
+Creating a new branch is quick.
