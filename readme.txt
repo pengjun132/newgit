@@ -7,3 +7,4 @@ Git tracks changes.
 My stupid boss still prefers SVN.
 Creating a new branch is quick AND simple.
 我是军军，分支测试
+add merge
